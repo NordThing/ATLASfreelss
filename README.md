@@ -1,3 +1,7 @@
+# ATLAS 3D scanner
+
+ATLAS 3D scanner files - both for hardware and software and 3d printing files collected on one place. 
+
 # FreeLSS
 
 FreeLSS is a laser scanning program for the Raspberry Pi. It allows a Raspberry Pi to function as the core to a complete turn table laser scanning system.
