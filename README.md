@@ -2,7 +2,8 @@
 
 ATLAS 3D scanner files - both for hardware and software and 3d printing files collected on one place. 
 
-A link for assembling https://youtu.be/TEsBM5ACriQ
+A link for assembling https://youtu.be/TEsBM5ACriQ 
+and one more https://www.youtube.com/watch?v=awtLSCLJ3qs
 
 # FreeLSS
 
