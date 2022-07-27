@@ -24,3 +24,13 @@ Hardware
 6. 4 x M2.5 jam nuts (Bag F)
 7. 4 x M3x20mm flat head screws (Bag G)
 8. 4 x M2.5 washers (Bag H)
+
+For the printed case's set of fasteners:
+1. "Bag A" as referenced in the instructions is 43x M3x10mm screws.
+2. "Bag B" is 73x M3 hex nuts
+3. "Bag C" is 34 M3 washers
+4. "Bag D" is 31 M3 socket cap screws
+5. "Bag E" is 4x M2.5x10 screws
+6. "Bag F" is 4x M2.5 jam nuts
+7. "Bag G" is 4x M3x20mm screws
+8. "Bag H" is 4x M2.5 washers
