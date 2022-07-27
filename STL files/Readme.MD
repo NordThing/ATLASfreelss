@@ -30,27 +30,30 @@ The following models are required to build ATLAS 3D:
 
 Raspberry Pi 2 and Raspberry Pi 1 Model B+ users need to print the below two models.
 
-rpi_case_bplus_lower.stl
-rpi_case_bplus_upper.stl
+1. rpi_case_bplus_lower.stl
+2. rpi_case_bplus_upper.stl
+
 Raspberry Pi 1 Model B users need to print the below two models.
 
-rpi_case_b_lower.stl
-rpi_case_b_upper.stl
-Only one of the following turntables needs to be printed.
+1. rpi_case_b_lower.stl
+2. rpi_case_b_upper.stl
+3. Only one of the following turntables needs to be printed.
 
-turn_table_d4.stl, 4" turntable
-turn_table_d5p5.stl, 5.5" turntable
-turn_table_d7p5.stl, 7.5" turntable
+1. turn_table_d4.stl, 4" turntable
+2. turn_table_d5p5.stl, 5.5" turntable
+3. turn_table_d7p5.stl, 7.5" turntable
+
 The following models are either optional or alternatives models.
 
-camera_bracket_no_support.stl
-left_camera_tower.stl
-right_camera_tower.stl
-The following models are only for the acrylic version of the enclosure.
+1. camera_bracket_no_support.stl
+2. left_camera_tower.stl
+3. right_camera_tower.stl
 
-left_laser_hinge.stl
-left_laser_hinge_holder.stl
-right_laser_hinge.stl
-right_laser_hinge_holder.stl
+The following models are only for the acrylic version of the enclosure.
+1. left_laser_hinge.stl
+2. left_laser_hinge_holder.stl
+3. right_laser_hinge.stl
+4. right_laser_hinge_holder.stl
+
 Assembly Video: https://www.youtube.com/watch?v=awtLSCLJ3qs
 Printable Instructions: http://www.soliforum.com/topic/13217/atlas-3d-scanner-instructions/
