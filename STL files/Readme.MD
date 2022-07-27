@@ -5,8 +5,8 @@ These are the printable models for the ATLAS 3D turntable laser scanner by Murob
 
 The following models are required to build ATLAS 3D:
 
-1.camera_arm.stl, qty 1
-2.camera_bracket.stl, qty 1
+1. camera_arm.stl, qty 1
+2. camera_bracket.stl, qty 1
 camera_case_back.stl, qty 1
 camera_case_front.stl, qty 1
 camera_shaft.stl, qty 1
