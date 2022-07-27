@@ -5,26 +5,28 @@ These are the printable models for the ATLAS 3D turntable laser scanner by Murob
 
 The following models are required to build ATLAS 3D:
 
-1. camera_arm.stl, qty 1
-2. camera_bracket.stl, qty 1
-camera_case_back.stl, qty 1
-camera_case_front.stl, qty 1
-camera_shaft.stl, qty 1
-frame_connector.stl, qty 6
-frame_section_2.stl, qty 4
-left_laser_arm.stl, qty 1
-right_laser_arm.stl, qty 1
-left_frame_section 3.stl, qty 1
-right_frame_section 3.stl, qty 1
-left_laser_holder.stl, qty 1
-right_laser_holder.stl, qty 1
-rpi_cable_carrier.stl, qty 4
-crossbar.stl, qty 5
-camera_tower.stl, qty 1
-camera_tower_front_plate.stl, qty 1
-table_coupler.stl, qty 1
-calibration_item.stl or checkerboard_calibration_item.stl, qty 1
-The calibrationPattern.pdf file needs to be printed and glued onto the checkerboard_calibration_item.stl model if you want to use the checkerboard auto-calibration.
+1. camera_arm.stl, x 1
+2. camera_bracket.stl, x 1
+3. camera_case_back.stl, x 1
+4. camera_case_front.stl, x 1
+5. camera_shaft.stl, x 1
+6. frame_connector.stl, x 6
+7. frame_section_2.stl, x 4
+8. left_laser_arm.stl, x 1
+9. right_laser_arm.stl, x 1
+10. left_frame_section 3.stl, x 1
+11. right_frame_section 3.stl, x 1
+12. left_laser_holder.stl, x 1
+13. right_laser_holder.stl, x 1
+14. rpi_cable_carrier.stl, x 4
+15. crossbar.stl, x 5
+16. camera_tower.stl, x 1
+17. camera_tower_front_plate.stl, x 1
+18. table_coupler.stl, x 1
+19. 
+- calibration_item.stl or 
+- checkerboard_calibration_item.stl, x 1
+20. The calibrationPattern.pdf file needs to be printed and glued onto the checkerboard_calibration_item.stl model if you want to use the checkerboard auto-calibration.
 
 Raspberry Pi 2 and Raspberry Pi 1 Model B+ users need to print the below two models.
 
