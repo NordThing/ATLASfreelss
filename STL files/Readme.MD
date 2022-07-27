@@ -1,5 +1,13 @@
 # STL files for 3d printing
 
+Printing times for the files here: 
+1. Printing parts 1-5 for the camera - estimated time 
+   - camera_arm
+   - camera_bracket
+   - camera_case_back
+   - camera_case_front
+   - camera_shaft
+
 Summary
 These are the printable models for the ATLAS 3D turntable laser scanner by Murobo. ATLAS 3D is a turntable 3D laser scanner based on the Raspberry Pi. It runs the open source FreeLSS http://www.freelss.org laser scanning software available on Github https://github.com/hairu/freelss/. ATLAS 3D is a successful Kickstarter that is now available to the public.
 
