@@ -1,14 +1,29 @@
 # STL files for 3d printing
 
 Printing times for the files here: 
-1. Printing parts 1-5 for the camera - estimated time 49 min, printing time 100mm/sec 30% infill 1h 25min 13 sec
+1. Printing parts nr 1-5 for the camera - estimated time 49 min, printing time 100mm/sec 30% infill 1h 25min 13 sec
    - camera_arm
    - camera_bracket
    - camera_case_back
    - camera_case_front
    - camera_shaft
-2. Printing part frame_connector x 6 - estimated time 2h 29 min, printing time 100mm/sec 30% infill 4h 8min 19sec
-3. Printing part frame_section_2 x 2 - estimated time xh xxmin, printing time 100mm/sec 30% infill xh xxmin xxsec
+2. Printing part nr 6 - frame_connector x 6 - estimated time 2h 29 min, printing time 100mm/sec 30% infill 4h 8min 19sec
+3. Printing part nr 7 - frame_section_2 x 2 - estimated time 1h 31min, printing time 100mm/sec 30% infill 2h 21min 36sec
+4. Printing parts 8-9 - estimated time 1h 45 min, printing time 100mm/sec 30% infill xh xxmin xxsec
+   - left_laser_arm
+   - right_laser_arm 
+5. Printing parts 10-11 - estimated time xh xxmin, printing time 100mm/sec 30% infill xh xxmin xxsec
+   - left_frame_section_3
+   - right_frame_section_3
+6. Printing parts 12-14 - estimated time xh xxmin, printing time 100mm/sec 30% infill xh xxmin xxsec
+   - left_laser_holder
+   - right_laser_holder
+   - rpi_cable_carrier x 4
+   - cross_bar x 5
+7. Printing parts 16-17
+   - camera_tower
+   - camera_tower_front_plate
+9.    
    
 Summary
 These are the printable models for the ATLAS 3D turntable laser scanner by Murobo. ATLAS 3D is a turntable 3D laser scanner based on the Raspberry Pi. It runs the open source FreeLSS http://www.freelss.org laser scanning software available on Github https://github.com/hairu/freelss/. ATLAS 3D is a successful Kickstarter that is now available to the public.
@@ -47,7 +62,9 @@ Raspberry Pi 1 Model B users need to print the below two models.
 
 1. rpi_case_b_lower.stl
 2. rpi_case_b_upper.stl
-3. Only one of the following turntables needs to be printed.
+
+
+Only one of the following turntables needs to be printed.
 
 1. turn_table_d4.stl, 4" turntable
 2. turn_table_d5p5.stl, 5.5" turntable
