@@ -1,7 +1,7 @@
 # STL files for 3d printing
 
 Printing times for the files here: 
-1. Printing parts nr 1-5 for the camera - estimated time 49 min, printing time 100mm/sec 30% infill 1h 25min 13 sec
+1. Printing parts nr 1-5 for the camera - estimated time 49min, printing time 100mm/sec 30% infill 1h 25min 13 sec
    - camera_arm
    - camera_bracket
    - camera_case_back
@@ -9,13 +9,13 @@ Printing times for the files here:
    - camera_shaft
 2. Printing part nr 6 - frame_connector x 6 - estimated time 2h 29 min, printing time 100mm/sec 30% infill 4h 8min 19sec
 3. Printing part nr 7 - frame_section_2 x 2 - estimated time 1h 31min, printing time 100mm/sec 30% infill 2h 21min 36sec
-4. Printing parts 8-9 - estimated time 1h 45 min, printing time 100mm/sec 30% infill xh xxmin xxsec
+4. Printing parts 8-9 - estimated time 1h 45 min, printing time 100mm/sec 30% infill 2h 54min 42sec
    - left_laser_arm
    - right_laser_arm 
 5. Printing parts 10-11 - estimated time xh xxmin, printing time 100mm/sec 30% infill xh xxmin xxsec
    - left_frame_section_3
    - right_frame_section_3
-6. Printing parts 12-14 - estimated time xh xxmin, printing time 100mm/sec 30% infill xh xxmin xxsec
+6. Printing parts 12-14 - estimated time 1h 20min, printing time 100mm/sec 30% infill 2h 13min 10sec
    - left_laser_holder
    - right_laser_holder
    - rpi_cable_carrier x 4
