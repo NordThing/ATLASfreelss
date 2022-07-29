@@ -29,7 +29,9 @@ Printing times for the files here:
 
 1. Printing the frame_connector x 6 
 2. Printing the frame_section_2 x 4
-3. 
+3. Printing cross_bar x5
+4. Print the right raspberry pi case for your purpose
+5. Print the camera_tower 
 
 
 Summary
