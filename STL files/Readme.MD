@@ -93,3 +93,6 @@ The following models are only for the acrylic version of the enclosure.
 
 Assembly Video: https://www.youtube.com/watch?v=awtLSCLJ3qs
 Printable Instructions: http://www.soliforum.com/topic/13217/atlas-3d-scanner-instructions/
+
+Another remix 
+https://www.thingiverse.com/thing:754003
