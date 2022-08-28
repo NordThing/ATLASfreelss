@@ -60,7 +60,7 @@ The following models are required to build ATLAS 3D:
 19. 
     - calibration_item.stl or 
     - checkerboard_calibration_item.stl, x 1
-20. The calibrationPattern.pdf file needs to be printed and glued onto the checkerboard_calibration_item.stl model if you want to use the checkerboard auto-calibration.
+20. The calibrationPattern.pdf in the folder /calibration/ file needs to be printed and glued onto the checkerboard_calibration_item.stl model if you want to use the checkerboard auto-calibration.
 
 Raspberry Pi 2 and Raspberry Pi 1 Model B+ users need to print the below two models.
 
