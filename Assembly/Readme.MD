@@ -30,6 +30,15 @@ Mount the tower for laser
 1. Use the B nuts, c strings and D-screws. 
 2. This is a real hazzle to mount the tower for the laser... needs improvement. 
 
+Mount the laser-holder 
+1. Put the mount for the laser-holder on the tower both left and right
+
+Mount the camera holder on the camera-tower
+1. camera_bracket.stl
+2. camera_arm.stl
+
+Mount the camera on the camera-arm 
+1. 
 
 1. Mount the Laser-pointer to the right mount. 12mm_Laser_Holder_for_Atlas.stl
 2.
